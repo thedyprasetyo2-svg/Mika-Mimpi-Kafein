@@ -3,7 +3,7 @@
 ### *Android-Based Cafe Ordering Application*
 
 <p align="center">
-  <img src="Assets/logo.png" width="180" alt="Mimpi Kafein Logo"/>
+  <img src="Assets/logo.jpeg" width="180" alt="Mimpi Kafein Logo"/>
 </p>
 
 <p align="center">
