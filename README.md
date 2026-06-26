@@ -62,19 +62,19 @@ Selain fitur pemesanan, aplikasi ini juga dilengkapi dengan **Voice Order** meng
 
 | Login                                     | Dashboard                                                |
 | ----------------------------------------- | -------------------------------------------------------- |
-| <img src="Assets/login.png" width="220"/> | <img src="Assets/dashboard_pengunjung.png" width="220"/> |
+| <img src="Assets/login.jpeg" width="220"/> | <img src="Assets/dashboard_pengunjung.jpeg" width="220"/> |
 
 | Menu                                     | Keranjang                                     |
 | ---------------------------------------- | --------------------------------------------- |
-| <img src="Assets/menu.png" width="220"/> | <img src="Assets/keranjang.png" width="220"/> |
+| <img src="Assets/menu.jpeg" width="220"/> | <img src="Assets/keranjang.jpeg" width="220"/> |
 
 | Dashboard Admin                                     | Kelola Menu                                     |
 | --------------------------------------------------- | ----------------------------------------------- |
-| <img src="Assets/dashboard_admin.png" width="220"/> | <img src="Assets/kelola_menu.png" width="220"/> |
+| <img src="Assets/dashboard_admin.jpeg" width="220"/> | <img src="Assets/kelola_menu.jpeg" width="220"/> |
 
 | Kelola Pesanan                                     |
 | -------------------------------------------------- |
-| <img src="Assets/kelola_pesanan.png" width="220"/> |
+| <img src="Assets/kelola_pesanan.jpeg" width="220"/> |
 
 ---
 
