@@ -1,0 +1,19 @@
+<?php
+include "db_connect.php";
+
+$id_user = $_GET['id_user'];
+
+$sql = "SELECT * FROM orders
+WHERE id_user='$id_user'
+ORDER BY tanggal DESC";
+
+$result = mysqli_query($conn,$sql);
+
+$data = array();
+
+while($row = mysqli_fetch_assoc($result)){
+    $data[] = $row;
+}
+
+echo json_encode($data);
+?>
